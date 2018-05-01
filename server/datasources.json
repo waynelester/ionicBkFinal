@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mLab": {
+    "host": "mLab.com",
+    "port": 0,
+    "url": "mongodb://wayne:BeHereNow34@ds014648.mlab.com:14648/ionic-db",
+    "database": "",
+    "password": "",
+    "name": "mLab",
+    "user": "dev",
+    "connector": "mongodb"
+  }
+}
